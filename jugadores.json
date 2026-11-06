@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 06:15",
+  "fechaActualizacion": "2026-11-06 06:20",
   "jugadores": [
     {
       "id": "polag3k",
@@ -16,11 +16,11 @@
     {
       "id": "obi",
       "nombre": "Obi",
-      "nivel": 3,
+      "nivel": 4,
       "experiencia": null,
       "zombisEliminados": 11,
       "muertes": 21,
-      "kmRecorridos": 17.3,
+      "kmRecorridos": 17.6,
       "diasSobrevividos": null
     },
     {
