@@ -1,26 +1,26 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 04:20",
+  "fechaActualizacion": "2026-11-06 04:25",
   "jugadores": [
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 1,
-      "experiencia": null,
-      "zombisEliminados": 4,
-      "muertes": 5,
-      "kmRecorridos": 9.4,
-      "diasSobrevividos": null
-    },
     {
       "id": "polag3k",
       "nombre": "Polag3K",
       "nivel": 2,
       "experiencia": null,
+      "zombisEliminados": 11,
+      "muertes": 6,
+      "kmRecorridos": 8.2,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 1,
+      "experiencia": null,
       "zombisEliminados": 5,
-      "muertes": 4,
-      "kmRecorridos": 7.8,
+      "muertes": 7,
+      "kmRecorridos": 10.1,
       "diasSobrevividos": null
     },
     {
@@ -40,7 +40,7 @@
       "experiencia": null,
       "zombisEliminados": 0,
       "muertes": 3,
-      "kmRecorridos": 6.4,
+      "kmRecorridos": 7.3,
       "diasSobrevividos": null
     }
   ]
