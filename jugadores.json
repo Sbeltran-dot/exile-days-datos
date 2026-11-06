@@ -1,0 +1,17 @@
+{
+  "esquemaVersion": 1,
+  "datosDeEjemplo": false,
+  "fechaActualizacion": "2026-11-06 01:59",
+  "jugadores": [
+    {
+      "id": "sbeltran",
+      "nombre": "Sbeltran",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 0,
+      "muertes": 0,
+      "kmRecorridos": 0.0,
+      "diasSobrevividos": null
+    }
+  ]
+}
