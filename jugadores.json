@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 05:20",
+  "fechaActualizacion": "2026-11-06 05:25",
   "jugadores": [
     {
       "id": "polag3k",
@@ -10,17 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 24,
       "muertes": 17,
-      "kmRecorridos": 11.5,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "laurahero",
-      "nombre": "LauraHero",
-      "nivel": 3,
-      "experiencia": null,
-      "zombisEliminados": 2,
-      "muertes": 3,
-      "kmRecorridos": 10.3,
+      "kmRecorridos": 11.8,
       "diasSobrevividos": null
     },
     {
@@ -29,8 +19,18 @@
       "nivel": 3,
       "experiencia": null,
       "zombisEliminados": 9,
-      "muertes": 15,
-      "kmRecorridos": 13.8,
+      "muertes": 16,
+      "kmRecorridos": 14.4,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "laurahero",
+      "nombre": "LauraHero",
+      "nivel": 3,
+      "experiencia": null,
+      "zombisEliminados": 2,
+      "muertes": 4,
+      "kmRecorridos": 10.9,
       "diasSobrevividos": null
     },
     {
