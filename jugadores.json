@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 05:55",
+  "fechaActualizacion": "2026-11-06 06:00",
   "jugadores": [
     {
       "id": "polag3k",
@@ -14,23 +14,13 @@
       "diasSobrevividos": null
     },
     {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 3,
-      "experiencia": null,
-      "zombisEliminados": 11,
-      "muertes": 19,
-      "kmRecorridos": 15.8,
-      "diasSobrevividos": null
-    },
-    {
       "id": "laurahero",
       "nombre": "LauraHero",
       "nivel": 3,
       "experiencia": null,
       "zombisEliminados": 2,
       "muertes": 4,
-      "kmRecorridos": 12.1,
+      "kmRecorridos": 12.7,
       "diasSobrevividos": null
     },
     {
