@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 04:10",
+  "fechaActualizacion": "2026-11-06 04:15",
   "jugadores": [
     {
       "id": "obi",
@@ -10,7 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 4,
       "muertes": 5,
-      "kmRecorridos": 8.3,
+      "kmRecorridos": 8.8,
       "diasSobrevividos": null
     },
     {
@@ -20,7 +20,7 @@
       "experiencia": null,
       "zombisEliminados": 5,
       "muertes": 4,
-      "kmRecorridos": 6.6,
+      "kmRecorridos": 7.2,
       "diasSobrevividos": null
     },
     {
@@ -39,8 +39,8 @@
       "nivel": 1,
       "experiencia": null,
       "zombisEliminados": 0,
-      "muertes": 2,
-      "kmRecorridos": 5.0,
+      "muertes": 3,
+      "kmRecorridos": 5.8,
       "diasSobrevividos": null
     }
   ]
