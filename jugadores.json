@@ -1,8 +1,18 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 02:55",
+  "fechaActualizacion": "2026-11-06 03:00",
   "jugadores": [
+    {
+      "id": "polag3k",
+      "nombre": "Polag3K",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 1,
+      "muertes": 0,
+      "kmRecorridos": 1.8,
+      "diasSobrevividos": null
+    },
     {
       "id": "sbeltran",
       "nombre": "Sbeltran",
@@ -14,8 +24,8 @@
       "diasSobrevividos": null
     },
     {
-      "id": "polag3k",
-      "nombre": "Polag3K",
+      "id": "obi",
+      "nombre": "Obi",
       "nivel": 1,
       "experiencia": null,
       "zombisEliminados": 0,
