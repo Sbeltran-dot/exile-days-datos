@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 00:50",
+  "fechaActualizacion": "2026-11-07 00:55",
   "jugadores": [
     {
       "id": "kiran",
@@ -38,9 +38,9 @@
       "nombre": "TimberLoroa",
       "nivel": 3,
       "experiencia": null,
-      "zombisEliminados": 47,
+      "zombisEliminados": 49,
       "muertes": 5,
-      "kmRecorridos": 6.8,
+      "kmRecorridos": 7.4,
       "diasSobrevividos": null
     },
     {
@@ -50,17 +50,7 @@
       "experiencia": null,
       "zombisEliminados": 14,
       "muertes": 6,
-      "kmRecorridos": 22.1,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "princess-ani",
-      "nombre": "Princess Ani",
-      "nivel": 5,
-      "experiencia": null,
-      "zombisEliminados": 21,
-      "muertes": 23,
-      "kmRecorridos": 15.6,
+      "kmRecorridos": 22.6,
       "diasSobrevividos": null
     },
     {
@@ -74,6 +64,26 @@
       "diasSobrevividos": null
     },
     {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 8,
+      "experiencia": null,
+      "zombisEliminados": 16,
+      "muertes": 34,
+      "kmRecorridos": 32.2,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "princess-ani",
+      "nombre": "Princess Ani",
+      "nivel": 5,
+      "experiencia": null,
+      "zombisEliminados": 21,
+      "muertes": 25,
+      "kmRecorridos": 16.3,
+      "diasSobrevividos": null
+    },
+    {
       "id": "geiselgg",
       "nombre": "Geiselgg",
       "nivel": 6,
@@ -81,16 +91,6 @@
       "zombisEliminados": 15,
       "muertes": 17,
       "kmRecorridos": 15.6,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 8,
-      "experiencia": null,
-      "zombisEliminados": 15,
-      "muertes": 34,
-      "kmRecorridos": 31.9,
       "diasSobrevividos": null
     },
     {
@@ -110,7 +110,7 @@
       "experiencia": null,
       "zombisEliminados": 0,
       "muertes": 0,
-      "kmRecorridos": 0.7,
+      "kmRecorridos": 1.2,
       "diasSobrevividos": null
     }
   ]
