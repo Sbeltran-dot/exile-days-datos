@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 23:50",
+  "fechaActualizacion": "2026-11-06 23:55",
   "jugadores": [
     {
       "id": "kiran",
@@ -16,21 +16,21 @@
     {
       "id": "jurgen",
       "nombre": "Jürgen",
-      "nivel": 2,
+      "nivel": 3,
       "experiencia": null,
-      "zombisEliminados": 25,
+      "zombisEliminados": 31,
       "muertes": 5,
-      "kmRecorridos": 5.6,
+      "kmRecorridos": 5.8,
       "diasSobrevividos": null
     },
     {
       "id": "laurahero",
       "nombre": "LauraHero",
-      "nivel": 4,
+      "nivel": 5,
       "experiencia": null,
       "zombisEliminados": 10,
       "muertes": 5,
-      "kmRecorridos": 17.1,
+      "kmRecorridos": 17.5,
       "diasSobrevividos": null
     },
     {
@@ -38,19 +38,9 @@
       "nombre": "Polag3K",
       "nivel": 5,
       "experiencia": null,
-      "zombisEliminados": 43,
+      "zombisEliminados": 44,
       "muertes": 24,
-      "kmRecorridos": 17.9,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "ookamis",
-      "nombre": "Ookamis",
-      "nivel": 4,
-      "experiencia": null,
-      "zombisEliminados": 17,
-      "muertes": 5,
-      "kmRecorridos": 5.1,
+      "kmRecorridos": 18.2,
       "diasSobrevividos": null
     },
     {
@@ -70,7 +60,7 @@
       "experiencia": null,
       "zombisEliminados": 13,
       "muertes": 10,
-      "kmRecorridos": 9.3,
+      "kmRecorridos": 9.4,
       "diasSobrevividos": null
     },
     {
@@ -78,9 +68,19 @@
       "nombre": "Geiselgg",
       "nivel": 5,
       "experiencia": null,
-      "zombisEliminados": 12,
+      "zombisEliminados": 13,
       "muertes": 15,
-      "kmRecorridos": 13.1,
+      "kmRecorridos": 13.3,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 4,
+      "experiencia": null,
+      "zombisEliminados": 17,
+      "muertes": 6,
+      "kmRecorridos": 5.5,
       "diasSobrevividos": null
     },
     {
