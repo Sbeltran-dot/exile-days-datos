@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 17:00",
+  "fechaActualizacion": "2026-11-07 17:05",
   "jugadores": [
     {
       "id": "kiran",
       "nombre": "Kiran",
-      "nivel": 12,
+      "nivel": 13,
       "experiencia": null,
-      "zombisEliminados": 254,
+      "zombisEliminados": 259,
       "muertes": 10,
-      "kmRecorridos": 31.3,
+      "kmRecorridos": 31.9,
       "diasSobrevividos": null
     },
     {
@@ -26,11 +26,11 @@
     {
       "id": "timberloroa",
       "nombre": "TimberLoroa",
-      "nivel": 8,
+      "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 119,
+      "zombisEliminados": 125,
       "muertes": 7,
-      "kmRecorridos": 17.7,
+      "kmRecorridos": 18.4,
       "diasSobrevividos": null
     },
     {
@@ -74,6 +74,16 @@
       "diasSobrevividos": null
     },
     {
+      "id": "geiselgg",
+      "nombre": "Geiselgg",
+      "nivel": 8,
+      "experiencia": null,
+      "zombisEliminados": 24,
+      "muertes": 20,
+      "kmRecorridos": 20.3,
+      "diasSobrevividos": null
+    },
+    {
       "id": "mancoazteca",
       "nombre": "Mancoazteca",
       "nivel": 1,
@@ -91,16 +101,6 @@
       "zombisEliminados": 44,
       "muertes": 46,
       "kmRecorridos": 49.8,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "geiselgg",
-      "nombre": "Geiselgg",
-      "nivel": 7,
-      "experiencia": null,
-      "zombisEliminados": 23,
-      "muertes": 20,
-      "kmRecorridos": 19.9,
       "diasSobrevividos": null
     },
     {
