@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 00:00",
+  "fechaActualizacion": "2026-11-07 00:05",
   "jugadores": [
     {
       "id": "kiran",
@@ -20,7 +20,7 @@
       "experiencia": null,
       "zombisEliminados": 35,
       "muertes": 5,
-      "kmRecorridos": 6.3,
+      "kmRecorridos": 6.8,
       "diasSobrevividos": null
     },
     {
@@ -30,7 +30,7 @@
       "experiencia": null,
       "zombisEliminados": 46,
       "muertes": 24,
-      "kmRecorridos": 18.3,
+      "kmRecorridos": 18.7,
       "diasSobrevividos": null
     },
     {
@@ -40,7 +40,7 @@
       "experiencia": null,
       "zombisEliminados": 10,
       "muertes": 5,
-      "kmRecorridos": 17.7,
+      "kmRecorridos": 18.2,
       "diasSobrevividos": null
     },
     {
@@ -56,11 +56,11 @@
     {
       "id": "princess-ani",
       "nombre": "Princess Ani",
-      "nivel": 3,
+      "nivel": 4,
       "experiencia": null,
-      "zombisEliminados": 14,
-      "muertes": 10,
-      "kmRecorridos": 10.0,
+      "zombisEliminados": 17,
+      "muertes": 11,
+      "kmRecorridos": 10.2,
       "diasSobrevividos": null
     },
     {
@@ -68,9 +68,9 @@
       "nombre": "Geiselgg",
       "nivel": 5,
       "experiencia": null,
-      "zombisEliminados": 13,
-      "muertes": 15,
-      "kmRecorridos": 13.5,
+      "zombisEliminados": 15,
+      "muertes": 16,
+      "kmRecorridos": 14.1,
       "diasSobrevividos": null
     },
     {
@@ -78,9 +78,9 @@
       "nombre": "Ookamis",
       "nivel": 4,
       "experiencia": null,
-      "zombisEliminados": 17,
+      "zombisEliminados": 18,
       "muertes": 6,
-      "kmRecorridos": 5.8,
+      "kmRecorridos": 6.2,
       "diasSobrevividos": null
     },
     {
