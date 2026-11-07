@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 21:35",
+  "fechaActualizacion": "2026-11-06 21:40",
   "jugadores": [
     {
       "id": "kiran",
@@ -24,6 +24,16 @@
       "diasSobrevividos": null
     },
     {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 4,
+      "experiencia": null,
+      "zombisEliminados": 12,
+      "muertes": 24,
+      "kmRecorridos": 23.3,
+      "diasSobrevividos": null
+    },
+    {
       "id": "polag3k",
       "nombre": "Polag3K",
       "nivel": 5,
@@ -34,23 +44,13 @@
       "diasSobrevividos": null
     },
     {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 4,
-      "experiencia": null,
-      "zombisEliminados": 11,
-      "muertes": 24,
-      "kmRecorridos": 22.9,
-      "diasSobrevividos": null
-    },
-    {
       "id": "geiselgg",
       "nombre": "Geiselgg",
       "nivel": 3,
       "experiencia": null,
       "zombisEliminados": 4,
       "muertes": 5,
-      "kmRecorridos": 6.7,
+      "kmRecorridos": 6.8,
       "diasSobrevividos": null
     },
     {
@@ -70,7 +70,7 @@
       "experiencia": null,
       "zombisEliminados": 1,
       "muertes": 1,
-      "kmRecorridos": 1.0,
+      "kmRecorridos": 1.6,
       "diasSobrevividos": null
     },
     {
