@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 00:15",
+  "fechaActualizacion": "2026-11-07 00:20",
   "jugadores": [
     {
       "id": "kiran",
@@ -16,11 +16,11 @@
     {
       "id": "jurgen",
       "nombre": "Jürgen",
-      "nivel": 3,
+      "nivel": 4,
       "experiencia": null,
-      "zombisEliminados": 44,
+      "zombisEliminados": 51,
       "muertes": 5,
-      "kmRecorridos": 7.4,
+      "kmRecorridos": 7.6,
       "diasSobrevividos": null
     },
     {
@@ -34,13 +34,23 @@
       "diasSobrevividos": null
     },
     {
+      "id": "laurahero",
+      "nombre": "LauraHero",
+      "nivel": 6,
+      "experiencia": null,
+      "zombisEliminados": 12,
+      "muertes": 5,
+      "kmRecorridos": 19.2,
+      "diasSobrevividos": null
+    },
+    {
       "id": "timberloroa",
       "nombre": "TimberLoroa",
       "nivel": 2,
       "experiencia": null,
-      "zombisEliminados": 11,
+      "zombisEliminados": 13,
       "muertes": 1,
-      "kmRecorridos": 3.1,
+      "kmRecorridos": 3.9,
       "diasSobrevividos": null
     },
     {
@@ -48,9 +58,9 @@
       "nombre": "Ookamis",
       "nivel": 5,
       "experiencia": null,
-      "zombisEliminados": 18,
+      "zombisEliminados": 23,
       "muertes": 6,
-      "kmRecorridos": 6.9,
+      "kmRecorridos": 7.0,
       "diasSobrevividos": null
     },
     {
@@ -60,17 +70,27 @@
       "experiencia": null,
       "zombisEliminados": 17,
       "muertes": 13,
-      "kmRecorridos": 11.0,
+      "kmRecorridos": 11.2,
       "diasSobrevividos": null
     },
     {
       "id": "geiselgg",
       "nombre": "Geiselgg",
-      "nivel": 5,
+      "nivel": 6,
       "experiencia": null,
       "zombisEliminados": 15,
       "muertes": 17,
-      "kmRecorridos": 15.5,
+      "kmRecorridos": 15.6,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 8,
+      "experiencia": null,
+      "zombisEliminados": 13,
+      "muertes": 28,
+      "kmRecorridos": 27.9,
       "diasSobrevividos": null
     },
     {
