@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 21:55",
+  "fechaActualizacion": "2026-11-06 22:00",
   "jugadores": [
     {
       "id": "kiran",
@@ -24,23 +24,23 @@
       "diasSobrevividos": null
     },
     {
-      "id": "geiselgg",
-      "nombre": "Geiselgg",
-      "nivel": 4,
-      "experiencia": null,
-      "zombisEliminados": 11,
-      "muertes": 7,
-      "kmRecorridos": 8.5,
-      "diasSobrevividos": null
-    },
-    {
       "id": "obi",
       "nombre": "Obi",
       "nivel": 5,
       "experiencia": null,
       "zombisEliminados": 12,
       "muertes": 24,
-      "kmRecorridos": 24.1,
+      "kmRecorridos": 24.2,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "princess-ani",
+      "nombre": "Princess Ani",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 2,
+      "muertes": 1,
+      "kmRecorridos": 2.8,
       "diasSobrevividos": null
     },
     {
@@ -54,13 +54,23 @@
       "diasSobrevividos": null
     },
     {
-      "id": "princess-ani",
-      "nombre": "Princess Ani",
-      "nivel": 1,
+      "id": "geiselgg",
+      "nombre": "Geiselgg",
+      "nivel": 4,
       "experiencia": null,
-      "zombisEliminados": 1,
-      "muertes": 1,
-      "kmRecorridos": 2.4,
+      "zombisEliminados": 11,
+      "muertes": 8,
+      "kmRecorridos": 8.8,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "laurahero",
+      "nombre": "LauraHero",
+      "nivel": 3,
+      "experiencia": null,
+      "zombisEliminados": 2,
+      "muertes": 4,
+      "kmRecorridos": 13.1,
       "diasSobrevividos": null
     },
     {
