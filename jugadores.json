@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 00:40",
+  "fechaActualizacion": "2026-11-07 00:45",
   "jugadores": [
     {
       "id": "kiran",
@@ -28,9 +28,9 @@
       "nombre": "Polag3K",
       "nivel": 6,
       "experiencia": null,
-      "zombisEliminados": 55,
+      "zombisEliminados": 62,
       "muertes": 24,
-      "kmRecorridos": 19.4,
+      "kmRecorridos": 19.8,
       "diasSobrevividos": null
     },
     {
@@ -38,9 +38,19 @@
       "nombre": "TimberLoroa",
       "nivel": 3,
       "experiencia": null,
-      "zombisEliminados": 33,
-      "muertes": 4,
-      "kmRecorridos": 5.8,
+      "zombisEliminados": 37,
+      "muertes": 5,
+      "kmRecorridos": 6.4,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "laurahero",
+      "nombre": "LauraHero",
+      "nivel": 6,
+      "experiencia": null,
+      "zombisEliminados": 13,
+      "muertes": 6,
+      "kmRecorridos": 21.5,
       "diasSobrevividos": null
     },
     {
@@ -50,7 +60,7 @@
       "experiencia": null,
       "zombisEliminados": 31,
       "muertes": 9,
-      "kmRecorridos": 7.8,
+      "kmRecorridos": 8.2,
       "diasSobrevividos": null
     },
     {
@@ -60,7 +70,7 @@
       "experiencia": null,
       "zombisEliminados": 18,
       "muertes": 23,
-      "kmRecorridos": 14.5,
+      "kmRecorridos": 15.2,
       "diasSobrevividos": null
     },
     {
@@ -70,7 +80,7 @@
       "experiencia": null,
       "zombisEliminados": 14,
       "muertes": 33,
-      "kmRecorridos": 31.0,
+      "kmRecorridos": 31.4,
       "diasSobrevividos": null
     },
     {
@@ -86,6 +96,16 @@
     {
       "id": "sbeltran",
       "nombre": "Sbeltran",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 0,
+      "muertes": 0,
+      "kmRecorridos": 0.0,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "mancoazteca",
+      "nombre": "Mancoazteca",
       "nivel": 1,
       "experiencia": null,
       "zombisEliminados": 0,
