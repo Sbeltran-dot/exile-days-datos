@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 04:30",
+  "fechaActualizacion": "2026-11-07 04:35",
   "jugadores": [
     {
       "id": "kiran",
@@ -44,13 +44,13 @@
       "diasSobrevividos": null
     },
     {
-      "id": "laurahero",
-      "nombre": "LauraHero",
-      "nivel": 9,
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 11,
       "experiencia": null,
-      "zombisEliminados": 26,
-      "muertes": 9,
-      "kmRecorridos": 33.9,
+      "zombisEliminados": 38,
+      "muertes": 44,
+      "kmRecorridos": 44.4,
       "diasSobrevividos": null
     },
     {
