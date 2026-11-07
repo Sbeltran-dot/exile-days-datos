@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 22:10",
+  "fechaActualizacion": "2026-11-06 22:15",
   "jugadores": [
     {
       "id": "kiran",
@@ -10,7 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 126,
       "muertes": 8,
-      "kmRecorridos": 18.3,
+      "kmRecorridos": 18.6,
       "diasSobrevividos": null
     },
     {
@@ -30,27 +30,7 @@
       "experiencia": null,
       "zombisEliminados": 12,
       "muertes": 8,
-      "kmRecorridos": 10.0,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 5,
-      "experiencia": null,
-      "zombisEliminados": 12,
-      "muertes": 24,
-      "kmRecorridos": 24.5,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "laurahero",
-      "nombre": "LauraHero",
-      "nivel": 3,
-      "experiencia": null,
-      "zombisEliminados": 3,
-      "muertes": 4,
-      "kmRecorridos": 13.6,
+      "kmRecorridos": 10.1,
       "diasSobrevividos": null
     },
     {
@@ -70,7 +50,17 @@
       "experiencia": null,
       "zombisEliminados": 4,
       "muertes": 3,
-      "kmRecorridos": 4.1,
+      "kmRecorridos": 4.4,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "laurahero",
+      "nombre": "LauraHero",
+      "nivel": 3,
+      "experiencia": null,
+      "zombisEliminados": 3,
+      "muertes": 5,
+      "kmRecorridos": 13.9,
       "diasSobrevividos": null
     },
     {
