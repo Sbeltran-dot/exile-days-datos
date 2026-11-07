@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 21:25",
+  "fechaActualizacion": "2026-11-06 21:30",
   "jugadores": [
     {
       "id": "kiran",
@@ -40,7 +40,7 @@
       "experiencia": null,
       "zombisEliminados": 11,
       "muertes": 23,
-      "kmRecorridos": 20.7,
+      "kmRecorridos": 21.9,
       "diasSobrevividos": null
     },
     {
@@ -50,7 +50,7 @@
       "experiencia": null,
       "zombisEliminados": 4,
       "muertes": 5,
-      "kmRecorridos": 5.6,
+      "kmRecorridos": 6.6,
       "diasSobrevividos": null
     },
     {
@@ -71,6 +71,16 @@
       "zombisEliminados": 0,
       "muertes": 0,
       "kmRecorridos": 0.0,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "princess-ani",
+      "nombre": "Princess Ani",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 0,
+      "muertes": 0,
+      "kmRecorridos": 0.6,
       "diasSobrevividos": null
     },
     {
