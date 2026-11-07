@@ -1,16 +1,36 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 23:00",
+  "fechaActualizacion": "2026-11-06 23:05",
   "jugadores": [
     {
       "id": "kiran",
       "nombre": "Kiran",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 159,
+      "zombisEliminados": 170,
       "muertes": 8,
-      "kmRecorridos": 21.7,
+      "kmRecorridos": 22.0,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "jurgen",
+      "nombre": "Jürgen",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 7,
+      "muertes": 3,
+      "kmRecorridos": 3.6,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 3,
+      "experiencia": null,
+      "zombisEliminados": 6,
+      "muertes": 0,
+      "kmRecorridos": 2.5,
       "diasSobrevividos": null
     },
     {
@@ -24,16 +44,6 @@
       "diasSobrevividos": null
     },
     {
-      "id": "ookamis",
-      "nombre": "Ookamis",
-      "nivel": 2,
-      "experiencia": null,
-      "zombisEliminados": 5,
-      "muertes": 0,
-      "kmRecorridos": 2.2,
-      "diasSobrevividos": null
-    },
-    {
       "id": "timberloroa",
       "nombre": "TimberLoroa",
       "nivel": 1,
@@ -41,16 +51,6 @@
       "zombisEliminados": 5,
       "muertes": 0,
       "kmRecorridos": 2.4,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "jurgen",
-      "nombre": "Jürgen",
-      "nivel": 1,
-      "experiencia": null,
-      "zombisEliminados": 5,
-      "muertes": 3,
-      "kmRecorridos": 3.5,
       "diasSobrevividos": null
     },
     {
@@ -81,16 +81,6 @@
       "zombisEliminados": 38,
       "muertes": 24,
       "kmRecorridos": 16.6,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 8,
-      "experiencia": null,
-      "zombisEliminados": 12,
-      "muertes": 25,
-      "kmRecorridos": 26.1,
       "diasSobrevividos": null
     },
     {
