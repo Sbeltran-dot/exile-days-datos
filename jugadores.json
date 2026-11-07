@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 23:20",
+  "fechaActualizacion": "2026-11-06 23:25",
   "jugadores": [
     {
       "id": "kiran",
       "nombre": "Kiran",
       "nivel": 10,
       "experiencia": null,
-      "zombisEliminados": 174,
+      "zombisEliminados": 176,
       "muertes": 8,
-      "kmRecorridos": 22.8,
+      "kmRecorridos": 23.2,
       "diasSobrevividos": null
     },
     {
@@ -18,19 +18,9 @@
       "nombre": "Jürgen",
       "nivel": 1,
       "experiencia": null,
-      "zombisEliminados": 7,
-      "muertes": 3,
-      "kmRecorridos": 3.6,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "ookamis",
-      "nombre": "Ookamis",
-      "nivel": 3,
-      "experiencia": null,
       "zombisEliminados": 11,
-      "muertes": 1,
-      "kmRecorridos": 3.2,
+      "muertes": 3,
+      "kmRecorridos": 3.8,
       "diasSobrevividos": null
     },
     {
@@ -60,7 +50,27 @@
       "experiencia": null,
       "zombisEliminados": 10,
       "muertes": 6,
-      "kmRecorridos": 7.5,
+      "kmRecorridos": 7.9,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 8,
+      "experiencia": null,
+      "zombisEliminados": 13,
+      "muertes": 25,
+      "kmRecorridos": 27.1,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 3,
+      "experiencia": null,
+      "zombisEliminados": 11,
+      "muertes": 2,
+      "kmRecorridos": 3.5,
       "diasSobrevividos": null
     },
     {
@@ -79,18 +89,8 @@
       "nivel": 4,
       "experiencia": null,
       "zombisEliminados": 12,
-      "muertes": 9,
-      "kmRecorridos": 10.5,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 8,
-      "experiencia": null,
-      "zombisEliminados": 12,
-      "muertes": 25,
-      "kmRecorridos": 26.9,
+      "muertes": 11,
+      "kmRecorridos": 10.9,
       "diasSobrevividos": null
     },
     {
