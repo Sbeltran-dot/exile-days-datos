@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 02:45",
+  "fechaActualizacion": "2026-11-07 02:50",
   "jugadores": [
     {
       "id": "kiran",
@@ -38,9 +38,9 @@
       "nombre": "Polag3K",
       "nivel": 8,
       "experiencia": null,
-      "zombisEliminados": 82,
-      "muertes": 29,
-      "kmRecorridos": 23.6,
+      "zombisEliminados": 88,
+      "muertes": 30,
+      "kmRecorridos": 23.7,
       "diasSobrevividos": null
     },
     {
