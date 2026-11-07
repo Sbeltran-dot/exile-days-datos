@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 01:00",
+  "fechaActualizacion": "2026-11-07 01:05",
   "jugadores": [
     {
       "id": "kiran",
@@ -48,9 +48,9 @@
       "nombre": "LauraHero",
       "nivel": 7,
       "experiencia": null,
-      "zombisEliminados": 14,
+      "zombisEliminados": 15,
       "muertes": 6,
-      "kmRecorridos": 22.7,
+      "kmRecorridos": 23.1,
       "diasSobrevividos": null
     },
     {
@@ -70,17 +70,27 @@
       "experiencia": null,
       "zombisEliminados": 16,
       "muertes": 34,
-      "kmRecorridos": 32.2,
+      "kmRecorridos": 32.6,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "mancoazteca",
+      "nombre": "Mancoazteca",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 1,
+      "muertes": 0,
+      "kmRecorridos": 1.6,
       "diasSobrevividos": null
     },
     {
       "id": "princess-ani",
       "nombre": "Princess Ani",
-      "nivel": 5,
+      "nivel": 6,
       "experiencia": null,
-      "zombisEliminados": 21,
-      "muertes": 25,
-      "kmRecorridos": 16.6,
+      "zombisEliminados": 25,
+      "muertes": 26,
+      "kmRecorridos": 17.2,
       "diasSobrevividos": null
     },
     {
@@ -101,16 +111,6 @@
       "zombisEliminados": 0,
       "muertes": 0,
       "kmRecorridos": 0.0,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "mancoazteca",
-      "nombre": "Mancoazteca",
-      "nivel": 1,
-      "experiencia": null,
-      "zombisEliminados": 0,
-      "muertes": 0,
-      "kmRecorridos": 1.4,
       "diasSobrevividos": null
     }
   ]
