@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 23:45",
+  "fechaActualizacion": "2026-11-06 23:50",
   "jugadores": [
     {
       "id": "kiran",
@@ -18,9 +18,9 @@
       "nombre": "Jürgen",
       "nivel": 2,
       "experiencia": null,
-      "zombisEliminados": 24,
+      "zombisEliminados": 25,
       "muertes": 5,
-      "kmRecorridos": 5.3,
+      "kmRecorridos": 5.6,
       "diasSobrevividos": null
     },
     {
@@ -28,9 +28,19 @@
       "nombre": "LauraHero",
       "nivel": 4,
       "experiencia": null,
-      "zombisEliminados": 9,
+      "zombisEliminados": 10,
       "muertes": 5,
-      "kmRecorridos": 17.0,
+      "kmRecorridos": 17.1,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "polag3k",
+      "nombre": "Polag3K",
+      "nivel": 5,
+      "experiencia": null,
+      "zombisEliminados": 43,
+      "muertes": 24,
+      "kmRecorridos": 17.9,
       "diasSobrevividos": null
     },
     {
@@ -40,7 +50,7 @@
       "experiencia": null,
       "zombisEliminados": 17,
       "muertes": 5,
-      "kmRecorridos": 4.9,
+      "kmRecorridos": 5.1,
       "diasSobrevividos": null
     },
     {
@@ -54,13 +64,13 @@
       "diasSobrevividos": null
     },
     {
-      "id": "polag3k",
-      "nombre": "Polag3K",
-      "nivel": 5,
+      "id": "princess-ani",
+      "nombre": "Princess Ani",
+      "nivel": 3,
       "experiencia": null,
-      "zombisEliminados": 38,
-      "muertes": 24,
-      "kmRecorridos": 17.6,
+      "zombisEliminados": 13,
+      "muertes": 10,
+      "kmRecorridos": 9.3,
       "diasSobrevividos": null
     },
     {
@@ -69,8 +79,8 @@
       "nivel": 5,
       "experiencia": null,
       "zombisEliminados": 12,
-      "muertes": 14,
-      "kmRecorridos": 12.4,
+      "muertes": 15,
+      "kmRecorridos": 13.1,
       "diasSobrevividos": null
     },
     {
