@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 01:40",
+  "fechaActualizacion": "2026-11-07 01:45",
   "jugadores": [
     {
       "id": "kiran",
@@ -18,9 +18,9 @@
       "nombre": "TimberLoroa",
       "nivel": 5,
       "experiencia": null,
-      "zombisEliminados": 69,
-      "muertes": 5,
-      "kmRecorridos": 12.0,
+      "zombisEliminados": 79,
+      "muertes": 6,
+      "kmRecorridos": 12.7,
       "diasSobrevividos": null
     },
     {
@@ -40,7 +40,7 @@
       "experiencia": null,
       "zombisEliminados": 62,
       "muertes": 24,
-      "kmRecorridos": 20.3,
+      "kmRecorridos": 20.4,
       "diasSobrevividos": null
     },
     {
@@ -50,7 +50,7 @@
       "experiencia": null,
       "zombisEliminados": 17,
       "muertes": 6,
-      "kmRecorridos": 26.3,
+      "kmRecorridos": 26.6,
       "diasSobrevividos": null
     },
     {
@@ -61,16 +61,6 @@
       "zombisEliminados": 27,
       "muertes": 26,
       "kmRecorridos": 19.2,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 9,
-      "experiencia": null,
-      "zombisEliminados": 24,
-      "muertes": 36,
-      "kmRecorridos": 36.4,
       "diasSobrevividos": null
     },
     {
@@ -91,6 +81,16 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 9,
+      "experiencia": null,
+      "zombisEliminados": 24,
+      "muertes": 38,
+      "kmRecorridos": 37.0,
       "diasSobrevividos": null
     },
     {
