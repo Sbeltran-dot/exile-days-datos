@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 05:55",
+  "fechaActualizacion": "2026-11-07 06:00",
   "jugadores": [
     {
       "id": "kiran",
@@ -44,13 +44,13 @@
       "diasSobrevividos": null
     },
     {
-      "id": "laurahero",
-      "nombre": "LauraHero",
-      "nivel": 10,
+      "id": "princess-ani",
+      "nombre": "Princess Ani",
+      "nivel": 6,
       "experiencia": null,
-      "zombisEliminados": 32,
-      "muertes": 9,
-      "kmRecorridos": 38.4,
+      "zombisEliminados": 27,
+      "muertes": 26,
+      "kmRecorridos": 19.2,
       "diasSobrevividos": null
     },
     {
@@ -59,18 +59,8 @@
       "nivel": 13,
       "experiencia": null,
       "zombisEliminados": 42,
-      "muertes": 44,
-      "kmRecorridos": 48.2,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "princess-ani",
-      "nombre": "Princess Ani",
-      "nivel": 6,
-      "experiencia": null,
-      "zombisEliminados": 27,
-      "muertes": 26,
-      "kmRecorridos": 19.2,
+      "muertes": 45,
+      "kmRecorridos": 48.6,
       "diasSobrevividos": null
     },
     {
