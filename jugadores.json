@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-06 22:35",
+  "fechaActualizacion": "2026-11-06 22:40",
   "jugadores": [
     {
       "id": "kiran",
       "nombre": "Kiran",
       "nivel": 8,
       "experiencia": null,
-      "zombisEliminados": 135,
+      "zombisEliminados": 139,
       "muertes": 8,
-      "kmRecorridos": 19.9,
+      "kmRecorridos": 20.4,
       "diasSobrevividos": null
     },
     {
@@ -24,13 +24,33 @@
       "diasSobrevividos": null
     },
     {
-      "id": "princess-ani",
-      "nombre": "Princess Ani",
+      "id": "ookamis",
+      "nombre": "Ookamis",
       "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 4,
+      "muertes": 0,
+      "kmRecorridos": 0.9,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "laurahero",
+      "nombre": "LauraHero",
+      "nivel": 4,
       "experiencia": null,
       "zombisEliminados": 6,
       "muertes": 5,
-      "kmRecorridos": 6.1,
+      "kmRecorridos": 16.5,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "princess-ani",
+      "nombre": "Princess Ani",
+      "nivel": 2,
+      "experiencia": null,
+      "zombisEliminados": 10,
+      "muertes": 6,
+      "kmRecorridos": 6.6,
       "diasSobrevividos": null
     },
     {
@@ -44,13 +64,13 @@
       "diasSobrevividos": null
     },
     {
-      "id": "laurahero",
-      "nombre": "LauraHero",
-      "nivel": 4,
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 7,
       "experiencia": null,
-      "zombisEliminados": 4,
-      "muertes": 5,
-      "kmRecorridos": 15.9,
+      "zombisEliminados": 12,
+      "muertes": 24,
+      "kmRecorridos": 25.4,
       "diasSobrevividos": null
     },
     {
@@ -71,16 +91,6 @@
       "zombisEliminados": 0,
       "muertes": 0,
       "kmRecorridos": 0.0,
-      "diasSobrevividos": null
-    },
-    {
-      "id": "ookamis",
-      "nombre": "Ookamis",
-      "nivel": 1,
-      "experiencia": null,
-      "zombisEliminados": 0,
-      "muertes": 0,
-      "kmRecorridos": 0.5,
       "diasSobrevividos": null
     },
     {
