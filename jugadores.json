@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 01:25",
+  "fechaActualizacion": "2026-11-07 01:30",
   "jugadores": [
     {
       "id": "kiran",
@@ -26,21 +26,21 @@
     {
       "id": "timberloroa",
       "nombre": "TimberLoroa",
-      "nivel": 4,
+      "nivel": 5,
       "experiencia": null,
-      "zombisEliminados": 54,
+      "zombisEliminados": 65,
       "muertes": 5,
-      "kmRecorridos": 10.6,
+      "kmRecorridos": 11.0,
       "diasSobrevividos": null
     },
     {
       "id": "polag3k",
       "nombre": "Polag3K",
-      "nivel": 7,
+      "nivel": 8,
       "experiencia": null,
       "zombisEliminados": 62,
       "muertes": 24,
-      "kmRecorridos": 20.1,
+      "kmRecorridos": 20.2,
       "diasSobrevividos": null
     },
     {
@@ -48,9 +48,9 @@
       "nombre": "LauraHero",
       "nivel": 7,
       "experiencia": null,
-      "zombisEliminados": 16,
+      "zombisEliminados": 17,
       "muertes": 6,
-      "kmRecorridos": 25.2,
+      "kmRecorridos": 25.8,
       "diasSobrevividos": null
     },
     {
@@ -58,9 +58,9 @@
       "nombre": "Obi",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 18,
+      "zombisEliminados": 20,
       "muertes": 34,
-      "kmRecorridos": 34.9,
+      "kmRecorridos": 35.4,
       "diasSobrevividos": null
     },
     {
