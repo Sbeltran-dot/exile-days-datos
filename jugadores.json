@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 02:20",
+  "fechaActualizacion": "2026-11-08 02:25",
   "jugadores": [
     {
       "id": "kiran",
@@ -56,9 +56,9 @@
       "nombre": "Sbeltran",
       "nivel": 5,
       "experiencia": null,
-      "zombisEliminados": 51,
+      "zombisEliminados": 54,
       "muertes": 5,
-      "kmRecorridos": 6.8,
+      "kmRecorridos": 6.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -118,7 +118,7 @@
       "experiencia": null,
       "zombisEliminados": 49,
       "muertes": 50,
-      "kmRecorridos": 53.9,
+      "kmRecorridos": 54.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
