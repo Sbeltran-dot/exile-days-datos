@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 03:10",
+  "fechaActualizacion": "2026-11-08 03:15",
   "jugadores": [
     {
       "id": "kiran",
@@ -20,9 +20,9 @@
       "nombre": "Jürgen",
       "nivel": 11,
       "experiencia": null,
-      "zombisEliminados": 228,
+      "zombisEliminados": 231,
       "muertes": 18,
-      "kmRecorridos": 32.3,
+      "kmRecorridos": 32.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -44,9 +44,9 @@
       "nombre": "Sbeltran",
       "nivel": 8,
       "experiencia": null,
-      "zombisEliminados": 90,
+      "zombisEliminados": 95,
       "muertes": 5,
-      "kmRecorridos": 10.4,
+      "kmRecorridos": 10.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -70,7 +70,7 @@
       "experiencia": null,
       "zombisEliminados": 42,
       "muertes": 10,
-      "kmRecorridos": 50.6,
+      "kmRecorridos": 51.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -100,6 +100,18 @@
       "sellos": []
     },
     {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 13,
+      "experiencia": null,
+      "zombisEliminados": 52,
+      "muertes": 51,
+      "kmRecorridos": 57.8,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
       "id": "mancoazteca",
       "nombre": "Mancoazteca",
       "nivel": 1,
@@ -107,18 +119,6 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 13,
-      "experiencia": null,
-      "zombisEliminados": 51,
-      "muertes": 51,
-      "kmRecorridos": 57.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
