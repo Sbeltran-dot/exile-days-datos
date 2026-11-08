@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 16:40",
+  "fechaActualizacion": "2026-11-08 16:45",
   "jugadores": [
     {
       "id": "jurgen",
@@ -44,9 +44,9 @@
       "nombre": "Sbeltran",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 119,
+      "zombisEliminados": 131,
       "muertes": 8,
-      "kmRecorridos": 13.5,
+      "kmRecorridos": 13.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -59,6 +59,18 @@
       "zombisEliminados": 175,
       "muertes": 41,
       "kmRecorridos": 37.0,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "geiselgg",
+      "nombre": "Geiselgg",
+      "nivel": 9,
+      "experiencia": null,
+      "zombisEliminados": 54,
+      "muertes": 23,
+      "kmRecorridos": 34.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -106,7 +118,7 @@
       "experiencia": null,
       "zombisEliminados": 64,
       "muertes": 67,
-      "kmRecorridos": 87.1,
+      "kmRecorridos": 88.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
