@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 16:00",
+  "fechaActualizacion": "2026-11-08 16:05",
   "jugadores": [
     {
       "id": "jurgen",
       "nombre": "Jürgen",
       "nivel": 16,
       "experiencia": null,
-      "zombisEliminados": 402,
-      "muertes": 26,
-      "kmRecorridos": 57.9,
+      "zombisEliminados": 403,
+      "muertes": 27,
+      "kmRecorridos": 58.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -52,6 +52,18 @@
       "sellos": []
     },
     {
+      "id": "polag3k",
+      "nombre": "Polag3K",
+      "nivel": 9,
+      "experiencia": null,
+      "zombisEliminados": 163,
+      "muertes": 40,
+      "kmRecorridos": 35.6,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
       "id": "geiselgg",
       "nombre": "Geiselgg",
       "nivel": 9,
@@ -70,7 +82,7 @@
       "experiencia": null,
       "zombisEliminados": 46,
       "muertes": 10,
-      "kmRecorridos": 61.3,
+      "kmRecorridos": 61.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -117,8 +129,8 @@
       "nivel": 17,
       "experiencia": null,
       "zombisEliminados": 64,
-      "muertes": 62,
-      "kmRecorridos": 81.4,
+      "muertes": 63,
+      "kmRecorridos": 82.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
