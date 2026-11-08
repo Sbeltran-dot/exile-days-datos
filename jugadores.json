@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 01:55",
+  "fechaActualizacion": "2026-11-08 02:00",
   "jugadores": [
     {
       "id": "kiran",
@@ -22,7 +22,7 @@
       "experiencia": null,
       "zombisEliminados": 188,
       "muertes": 15,
-      "kmRecorridos": 26.2,
+      "kmRecorridos": 26.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -54,11 +54,11 @@
     {
       "id": "sbeltran",
       "nombre": "Sbeltran",
-      "nivel": 3,
+      "nivel": 4,
       "experiencia": null,
-      "zombisEliminados": 30,
+      "zombisEliminados": 37,
       "muertes": 2,
-      "kmRecorridos": 4.7,
+      "kmRecorridos": 5.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -68,9 +68,9 @@
       "nombre": "LauraHero",
       "nivel": 11,
       "experiencia": null,
-      "zombisEliminados": 36,
+      "zombisEliminados": 37,
       "muertes": 9,
-      "kmRecorridos": 44.3,
+      "kmRecorridos": 44.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -78,11 +78,11 @@
     {
       "id": "geiselgg",
       "nombre": "Geiselgg",
-      "nivel": 8,
+      "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 38,
+      "zombisEliminados": 41,
       "muertes": 22,
-      "kmRecorridos": 24.4,
+      "kmRecorridos": 25.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -92,9 +92,21 @@
       "nombre": "Ookamis",
       "nivel": 7,
       "experiencia": null,
-      "zombisEliminados": 54,
+      "zombisEliminados": 55,
       "muertes": 15,
-      "kmRecorridos": 17.0,
+      "kmRecorridos": 17.4,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 13,
+      "experiencia": null,
+      "zombisEliminados": 47,
+      "muertes": 47,
+      "kmRecorridos": 52.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -119,18 +131,6 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 13,
-      "experiencia": null,
-      "zombisEliminados": 44,
-      "muertes": 47,
-      "kmRecorridos": 52.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
