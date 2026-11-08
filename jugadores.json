@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 18:25",
+  "fechaActualizacion": "2026-11-08 18:30",
   "jugadores": [
     {
       "id": "jurgen",
@@ -10,7 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 437,
       "muertes": 31,
-      "kmRecorridos": 68.0,
+      "kmRecorridos": 68.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -44,9 +44,9 @@
       "nombre": "Sbeltran",
       "nivel": 10,
       "experiencia": null,
-      "zombisEliminados": 168,
-      "muertes": 14,
-      "kmRecorridos": 26.0,
+      "zombisEliminados": 169,
+      "muertes": 16,
+      "kmRecorridos": 26.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -58,7 +58,7 @@
       "experiencia": null,
       "zombisEliminados": 181,
       "muertes": 44,
-      "kmRecorridos": 39.6,
+      "kmRecorridos": 39.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -76,23 +76,11 @@
       "sellos": []
     },
     {
-      "id": "laurahero",
-      "nombre": "LauraHero",
-      "nivel": 14,
-      "experiencia": null,
-      "zombisEliminados": 47,
-      "muertes": 11,
-      "kmRecorridos": 66.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
       "id": "ookamis",
       "nombre": "Ookamis",
       "nivel": 8,
       "experiencia": null,
-      "zombisEliminados": 88,
+      "zombisEliminados": 91,
       "muertes": 21,
       "kmRecorridos": 25.4,
       "diasSobrevividos": null,
