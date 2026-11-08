@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 17:20",
+  "fechaActualizacion": "2026-11-08 17:25",
   "jugadores": [
     {
       "id": "jurgen",
@@ -44,9 +44,9 @@
       "nombre": "Sbeltran",
       "nivel": 10,
       "experiencia": null,
-      "zombisEliminados": 142,
-      "muertes": 10,
-      "kmRecorridos": 18.1,
+      "zombisEliminados": 145,
+      "muertes": 12,
+      "kmRecorridos": 18.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -80,21 +80,9 @@
       "nombre": "Ookamis",
       "nivel": 7,
       "experiencia": null,
-      "zombisEliminados": 77,
-      "muertes": 19,
-      "kmRecorridos": 20.2,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 17,
-      "experiencia": null,
-      "zombisEliminados": 72,
-      "muertes": 67,
-      "kmRecorridos": 97.7,
+      "zombisEliminados": 79,
+      "muertes": 20,
+      "kmRecorridos": 20.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -119,6 +107,18 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 17,
+      "experiencia": null,
+      "zombisEliminados": 72,
+      "muertes": 69,
+      "kmRecorridos": 98.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
