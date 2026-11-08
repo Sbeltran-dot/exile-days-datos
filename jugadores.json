@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 20:45",
+  "fechaActualizacion": "2026-11-08 20:50",
   "jugadores": [
     {
       "id": "jurgen",
@@ -58,7 +58,7 @@
       "experiencia": null,
       "zombisEliminados": 174,
       "muertes": 23,
-      "kmRecorridos": 34.3,
+      "kmRecorridos": 34.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -82,7 +82,7 @@
       "experiencia": null,
       "zombisEliminados": 73,
       "muertes": 26,
-      "kmRecorridos": 42.7,
+      "kmRecorridos": 43.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -112,6 +112,18 @@
       "sellos": []
     },
     {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 19,
+      "experiencia": null,
+      "zombisEliminados": 87,
+      "muertes": 94,
+      "kmRecorridos": 115.4,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
       "id": "mancoazteca",
       "nombre": "Mancoazteca",
       "nivel": 1,
@@ -119,18 +131,6 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 19,
-      "experiencia": null,
-      "zombisEliminados": 86,
-      "muertes": 94,
-      "kmRecorridos": 114.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
