@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-07 23:50",
+  "fechaActualizacion": "2026-11-07 23:55",
   "jugadores": [
     {
       "id": "kiran",
@@ -54,16 +54,6 @@
       "diasSobrevividos": null
     },
     {
-      "id": "ookamis",
-      "nombre": "Ookamis",
-      "nivel": 6,
-      "experiencia": null,
-      "zombisEliminados": 42,
-      "muertes": 12,
-      "kmRecorridos": 11.0,
-      "diasSobrevividos": null
-    },
-    {
       "id": "princess-ani",
       "nombre": "Princess Ani",
       "nivel": 6,
@@ -71,6 +61,16 @@
       "zombisEliminados": 27,
       "muertes": 26,
       "kmRecorridos": 19.2,
+      "diasSobrevividos": null
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 6,
+      "experiencia": null,
+      "zombisEliminados": 42,
+      "muertes": 13,
+      "kmRecorridos": 11.5,
       "diasSobrevividos": null
     },
     {
