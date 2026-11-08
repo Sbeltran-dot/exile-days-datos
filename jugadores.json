@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 16:45",
+  "fechaActualizacion": "2026-11-08 16:50",
   "jugadores": [
     {
       "id": "jurgen",
@@ -44,9 +44,9 @@
       "nombre": "Sbeltran",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 131,
+      "zombisEliminados": 133,
       "muertes": 8,
-      "kmRecorridos": 13.9,
+      "kmRecorridos": 14.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -118,7 +118,7 @@
       "experiencia": null,
       "zombisEliminados": 64,
       "muertes": 67,
-      "kmRecorridos": 88.3,
+      "kmRecorridos": 89.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
