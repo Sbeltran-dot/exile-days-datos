@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 01:35",
+  "fechaActualizacion": "2026-11-08 01:40",
   "jugadores": [
     {
       "id": "kiran",
@@ -18,11 +18,11 @@
     {
       "id": "jurgen",
       "nombre": "Jürgen",
-      "nivel": 9,
+      "nivel": 10,
       "experiencia": null,
-      "zombisEliminados": 174,
+      "zombisEliminados": 180,
       "muertes": 13,
-      "kmRecorridos": 24.7,
+      "kmRecorridos": 24.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -32,9 +32,9 @@
       "nombre": "TimberLoroa",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 146,
+      "zombisEliminados": 149,
       "muertes": 10,
-      "kmRecorridos": 22.3,
+      "kmRecorridos": 23.0,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -58,7 +58,7 @@
       "experiencia": null,
       "zombisEliminados": 35,
       "muertes": 9,
-      "kmRecorridos": 41.9,
+      "kmRecorridos": 42.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -68,9 +68,21 @@
       "nombre": "Sbeltran",
       "nivel": 2,
       "experiencia": null,
-      "zombisEliminados": 10,
+      "zombisEliminados": 11,
       "muertes": 1,
-      "kmRecorridos": 3.4,
+      "kmRecorridos": 3.8,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 6,
+      "experiencia": null,
+      "zombisEliminados": 51,
+      "muertes": 15,
+      "kmRecorridos": 15.6,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -95,30 +107,6 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "ookamis",
-      "nombre": "Ookamis",
-      "nivel": 6,
-      "experiencia": null,
-      "zombisEliminados": 47,
-      "muertes": 15,
-      "kmRecorridos": 15.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 13,
-      "experiencia": null,
-      "zombisEliminados": 44,
-      "muertes": 47,
-      "kmRecorridos": 50.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
