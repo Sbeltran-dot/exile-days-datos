@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 16:20",
+  "fechaActualizacion": "2026-11-08 16:25",
   "jugadores": [
     {
       "id": "jurgen",
@@ -10,7 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 405,
       "muertes": 29,
-      "kmRecorridos": 60.6,
+      "kmRecorridos": 61.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -56,9 +56,9 @@
       "nombre": "Polag3K",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 169,
+      "zombisEliminados": 175,
       "muertes": 41,
-      "kmRecorridos": 36.8,
+      "kmRecorridos": 37.0,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -106,7 +106,7 @@
       "experiencia": null,
       "zombisEliminados": 64,
       "muertes": 65,
-      "kmRecorridos": 84.5,
+      "kmRecorridos": 85.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
