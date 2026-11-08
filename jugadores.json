@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 02:35",
+  "fechaActualizacion": "2026-11-08 02:40",
   "jugadores": [
     {
       "id": "kiran",
@@ -20,9 +20,9 @@
       "nombre": "Jürgen",
       "nivel": 10,
       "experiencia": null,
-      "zombisEliminados": 207,
+      "zombisEliminados": 213,
       "muertes": 16,
-      "kmRecorridos": 29.5,
+      "kmRecorridos": 29.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -54,11 +54,11 @@
     {
       "id": "sbeltran",
       "nombre": "Sbeltran",
-      "nivel": 5,
+      "nivel": 6,
       "experiencia": null,
-      "zombisEliminados": 58,
+      "zombisEliminados": 64,
       "muertes": 5,
-      "kmRecorridos": 8.0,
+      "kmRecorridos": 8.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -70,7 +70,7 @@
       "experiencia": null,
       "zombisEliminados": 40,
       "muertes": 9,
-      "kmRecorridos": 46.8,
+      "kmRecorridos": 47.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -118,7 +118,7 @@
       "experiencia": null,
       "zombisEliminados": 49,
       "muertes": 50,
-      "kmRecorridos": 54.7,
+      "kmRecorridos": 54.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
