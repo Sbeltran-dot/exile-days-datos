@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 01:25",
+  "fechaActualizacion": "2026-11-08 01:30",
   "jugadores": [
     {
       "id": "kiran",
@@ -20,9 +20,9 @@
       "nombre": "Jürgen",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 166,
+      "zombisEliminados": 171,
       "muertes": 13,
-      "kmRecorridos": 24.2,
+      "kmRecorridos": 24.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -32,9 +32,9 @@
       "nombre": "TimberLoroa",
       "nivel": 9,
       "experiencia": null,
-      "zombisEliminados": 135,
+      "zombisEliminados": 136,
       "muertes": 10,
-      "kmRecorridos": 20.8,
+      "kmRecorridos": 21.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -58,7 +58,7 @@
       "experiencia": null,
       "zombisEliminados": 35,
       "muertes": 9,
-      "kmRecorridos": 41.0,
+      "kmRecorridos": 41.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -66,11 +66,11 @@
     {
       "id": "sbeltran",
       "nombre": "Sbeltran",
-      "nivel": 1,
+      "nivel": 2,
       "experiencia": null,
-      "zombisEliminados": 8,
+      "zombisEliminados": 9,
       "muertes": 1,
-      "kmRecorridos": 2.7,
+      "kmRecorridos": 3.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -106,7 +106,7 @@
       "experiencia": null,
       "zombisEliminados": 47,
       "muertes": 15,
-      "kmRecorridos": 14.3,
+      "kmRecorridos": 14.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -117,20 +117,8 @@
       "nivel": 13,
       "experiencia": null,
       "zombisEliminados": 44,
-      "muertes": 46,
-      "kmRecorridos": 49.8,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "geiselgg",
-      "nombre": "Geiselgg",
-      "nivel": 8,
-      "experiencia": null,
-      "zombisEliminados": 29,
-      "muertes": 22,
-      "kmRecorridos": 22.7,
+      "muertes": 47,
+      "kmRecorridos": 50.0,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
