@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 17:00",
+  "fechaActualizacion": "2026-11-08 17:05",
   "jugadores": [
     {
       "id": "jurgen",
@@ -45,8 +45,8 @@
       "nivel": 10,
       "experiencia": null,
       "zombisEliminados": 133,
-      "muertes": 8,
-      "kmRecorridos": 16.3,
+      "muertes": 9,
+      "kmRecorridos": 16.9,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -58,7 +58,7 @@
       "experiencia": null,
       "zombisEliminados": 180,
       "muertes": 42,
-      "kmRecorridos": 37.8,
+      "kmRecorridos": 38.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -80,9 +80,9 @@
       "nombre": "Ookamis",
       "nivel": 7,
       "experiencia": null,
-      "zombisEliminados": 56,
+      "zombisEliminados": 59,
       "muertes": 15,
-      "kmRecorridos": 18.7,
+      "kmRecorridos": 18.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -94,7 +94,7 @@
       "experiencia": null,
       "zombisEliminados": 72,
       "muertes": 67,
-      "kmRecorridos": 91.0,
+      "kmRecorridos": 91.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
