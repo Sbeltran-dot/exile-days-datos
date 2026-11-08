@@ -1,20 +1,8 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 18:55",
+  "fechaActualizacion": "2026-11-08 19:00",
   "jugadores": [
-    {
-      "id": "jurgen",
-      "nombre": "Jürgen",
-      "nivel": 17,
-      "experiencia": null,
-      "zombisEliminados": 444,
-      "muertes": 35,
-      "kmRecorridos": 69.2,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
     {
       "id": "kiran",
       "nombre": "Kiran",
@@ -44,9 +32,21 @@
       "nombre": "Sbeltran",
       "nivel": 10,
       "experiencia": null,
-      "zombisEliminados": 172,
+      "zombisEliminados": 175,
       "muertes": 19,
       "kmRecorridos": 27.8,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 9,
+      "experiencia": null,
+      "zombisEliminados": 132,
+      "muertes": 21,
+      "kmRecorridos": 25.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -59,18 +59,6 @@
       "zombisEliminados": 181,
       "muertes": 44,
       "kmRecorridos": 39.9,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "geiselgg",
-      "nombre": "Geiselgg",
-      "nivel": 9,
-      "experiencia": null,
-      "zombisEliminados": 54,
-      "muertes": 23,
-      "kmRecorridos": 34.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -117,8 +105,8 @@
       "nivel": 17,
       "experiencia": null,
       "zombisEliminados": 77,
-      "muertes": 83,
-      "kmRecorridos": 105.9,
+      "muertes": 85,
+      "kmRecorridos": 106.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
