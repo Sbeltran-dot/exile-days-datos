@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 01:50",
+  "fechaActualizacion": "2026-11-08 01:55",
   "jugadores": [
     {
       "id": "kiran",
@@ -22,7 +22,7 @@
       "experiencia": null,
       "zombisEliminados": 188,
       "muertes": 15,
-      "kmRecorridos": 25.6,
+      "kmRecorridos": 26.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -32,9 +32,9 @@
       "nombre": "TimberLoroa",
       "nivel": 10,
       "experiencia": null,
-      "zombisEliminados": 156,
+      "zombisEliminados": 157,
       "muertes": 10,
-      "kmRecorridos": 24.3,
+      "kmRecorridos": 24.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -56,9 +56,9 @@
       "nombre": "Sbeltran",
       "nivel": 3,
       "experiencia": null,
-      "zombisEliminados": 27,
+      "zombisEliminados": 30,
       "muertes": 2,
-      "kmRecorridos": 4.5,
+      "kmRecorridos": 4.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -70,7 +70,7 @@
       "experiencia": null,
       "zombisEliminados": 36,
       "muertes": 9,
-      "kmRecorridos": 43.7,
+      "kmRecorridos": 44.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -82,7 +82,7 @@
       "experiencia": null,
       "zombisEliminados": 38,
       "muertes": 22,
-      "kmRecorridos": 24.2,
+      "kmRecorridos": 24.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -90,11 +90,11 @@
     {
       "id": "ookamis",
       "nombre": "Ookamis",
-      "nivel": 6,
+      "nivel": 7,
       "experiencia": null,
       "zombisEliminados": 54,
       "muertes": 15,
-      "kmRecorridos": 16.8,
+      "kmRecorridos": 17.0,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -130,7 +130,7 @@
       "experiencia": null,
       "zombisEliminados": 44,
       "muertes": 47,
-      "kmRecorridos": 51.8,
+      "kmRecorridos": 52.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
