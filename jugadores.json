@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 18:10",
+  "fechaActualizacion": "2026-11-08 18:15",
   "jugadores": [
     {
       "id": "jurgen",
       "nombre": "Jürgen",
       "nivel": 17,
       "experiencia": null,
-      "zombisEliminados": 436,
-      "muertes": 30,
-      "kmRecorridos": 67.4,
+      "zombisEliminados": 437,
+      "muertes": 31,
+      "kmRecorridos": 67.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -34,7 +34,7 @@
       "experiencia": null,
       "zombisEliminados": 167,
       "muertes": 12,
-      "kmRecorridos": 25.5,
+      "kmRecorridos": 25.6,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -81,7 +81,7 @@
       "nivel": 14,
       "experiencia": null,
       "zombisEliminados": 46,
-      "muertes": 10,
+      "muertes": 11,
       "kmRecorridos": 65.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
@@ -92,21 +92,9 @@
       "nombre": "Ookamis",
       "nivel": 8,
       "experiencia": null,
-      "zombisEliminados": 82,
-      "muertes": 20,
-      "kmRecorridos": 25.0,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 17,
-      "experiencia": null,
-      "zombisEliminados": 76,
-      "muertes": 70,
-      "kmRecorridos": 103.5,
+      "zombisEliminados": 83,
+      "muertes": 21,
+      "kmRecorridos": 25.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -131,6 +119,18 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 17,
+      "experiencia": null,
+      "zombisEliminados": 77,
+      "muertes": 71,
+      "kmRecorridos": 103.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
