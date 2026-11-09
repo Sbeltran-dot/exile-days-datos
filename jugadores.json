@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-09 03:30",
+  "fechaActualizacion": "2026-11-09 03:35",
   "jugadores": [
     {
       "id": "jurgen",
@@ -94,7 +94,7 @@
       "experiencia": null,
       "zombisEliminados": 48,
       "muertes": 11,
-      "kmRecorridos": 69.1,
+      "kmRecorridos": 71.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
