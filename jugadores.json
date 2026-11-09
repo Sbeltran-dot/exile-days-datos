@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 23:25",
+  "fechaActualizacion": "2026-11-08 23:30",
   "jugadores": [
     {
       "id": "jurgen",
@@ -28,18 +28,6 @@
       "sellos": []
     },
     {
-      "id": "ookamis",
-      "nombre": "Ookamis",
-      "nivel": 15,
-      "experiencia": null,
-      "zombisEliminados": 200,
-      "muertes": 24,
-      "kmRecorridos": 41.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
       "id": "timberloroa",
       "nombre": "TimberLoroa",
       "nivel": 10,
@@ -47,6 +35,18 @@
       "zombisEliminados": 157,
       "muertes": 10,
       "kmRecorridos": 24.4,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 15,
+      "experiencia": null,
+      "zombisEliminados": 201,
+      "muertes": 25,
+      "kmRecorridos": 41.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
