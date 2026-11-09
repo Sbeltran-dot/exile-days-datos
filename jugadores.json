@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-08 21:25",
+  "fechaActualizacion": "2026-11-08 21:30",
   "jugadores": [
     {
       "id": "jurgen",
@@ -46,7 +46,7 @@
       "experiencia": null,
       "zombisEliminados": 185,
       "muertes": 23,
-      "kmRecorridos": 36.9,
+      "kmRecorridos": 37.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -71,6 +71,18 @@
       "zombisEliminados": 217,
       "muertes": 48,
       "kmRecorridos": 42.1,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "geiselgg",
+      "nombre": "Geiselgg",
+      "nivel": 11,
+      "experiencia": null,
+      "zombisEliminados": 79,
+      "muertes": 28,
+      "kmRecorridos": 47.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
