@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-09 15:45",
+  "fechaActualizacion": "2026-11-09 15:50",
   "jugadores": [
     {
       "id": "jurgen",
       "nombre": "Jürgen",
       "nivel": 20,
       "experiencia": null,
-      "zombisEliminados": 561,
+      "zombisEliminados": 563,
       "muertes": 43,
-      "kmRecorridos": 94.7,
+      "kmRecorridos": 95.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -32,9 +32,9 @@
       "nombre": "Ookamis",
       "nivel": 15,
       "experiencia": null,
-      "zombisEliminados": 224,
+      "zombisEliminados": 225,
       "muertes": 26,
-      "kmRecorridos": 44.3,
+      "kmRecorridos": 44.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -118,7 +118,7 @@
       "experiencia": null,
       "zombisEliminados": 96,
       "muertes": 97,
-      "kmRecorridos": 122.6,
+      "kmRecorridos": 123.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
