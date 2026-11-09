@@ -1,28 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-09 17:20",
+  "fechaActualizacion": "2026-11-09 17:25",
   "jugadores": [
     {
       "id": "kiran",
       "nombre": "Kiran",
       "nivel": 20,
       "experiencia": null,
-      "zombisEliminados": 461,
+      "zombisEliminados": 468,
       "muertes": 13,
-      "kmRecorridos": 56.3,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "jurgen",
-      "nombre": "Jürgen",
-      "nivel": 20,
-      "experiencia": null,
-      "zombisEliminados": 582,
-      "muertes": 44,
-      "kmRecorridos": 103.4,
+      "kmRecorridos": 56.6,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -32,9 +20,9 @@
       "nombre": "Ookamis",
       "nivel": 17,
       "experiencia": null,
-      "zombisEliminados": 261,
+      "zombisEliminados": 269,
       "muertes": 31,
-      "kmRecorridos": 52.7,
+      "kmRecorridos": 53.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -42,11 +30,11 @@
     {
       "id": "timberloroa",
       "nombre": "TimberLoroa",
-      "nivel": 11,
+      "nivel": 12,
       "experiencia": null,
-      "zombisEliminados": 202,
+      "zombisEliminados": 204,
       "muertes": 14,
-      "kmRecorridos": 28.6,
+      "kmRecorridos": 29.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -102,11 +90,11 @@
     {
       "id": "obi",
       "nombre": "Obi",
-      "nivel": 23,
+      "nivel": 24,
       "experiencia": null,
-      "zombisEliminados": 104,
+      "zombisEliminados": 109,
       "muertes": 98,
-      "kmRecorridos": 130.5,
+      "kmRecorridos": 130.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
