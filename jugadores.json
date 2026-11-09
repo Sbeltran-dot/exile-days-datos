@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-09 15:00",
+  "fechaActualizacion": "2026-11-09 15:05",
   "jugadores": [
     {
       "id": "jurgen",
       "nombre": "Jürgen",
       "nivel": 20,
       "experiencia": null,
-      "zombisEliminados": 559,
+      "zombisEliminados": 560,
       "muertes": 41,
-      "kmRecorridos": 89.3,
+      "kmRecorridos": 90.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -100,6 +100,18 @@
       "sellos": []
     },
     {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 22,
+      "experiencia": null,
+      "zombisEliminados": 88,
+      "muertes": 94,
+      "kmRecorridos": 117.9,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
       "id": "princess-ani",
       "nombre": "Princess Ani",
       "nivel": 6,
@@ -107,18 +119,6 @@
       "zombisEliminados": 27,
       "muertes": 26,
       "kmRecorridos": 19.2,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 22,
-      "experiencia": null,
-      "zombisEliminados": 87,
-      "muertes": 94,
-      "kmRecorridos": 117.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
