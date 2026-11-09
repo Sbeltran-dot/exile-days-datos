@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-09 15:40",
+  "fechaActualizacion": "2026-11-09 15:45",
   "jugadores": [
     {
       "id": "jurgen",
@@ -9,8 +9,8 @@
       "nivel": 20,
       "experiencia": null,
       "zombisEliminados": 561,
-      "muertes": 42,
-      "kmRecorridos": 94.0,
+      "muertes": 43,
+      "kmRecorridos": 94.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -32,9 +32,9 @@
       "nombre": "Ookamis",
       "nivel": 15,
       "experiencia": null,
-      "zombisEliminados": 221,
-      "muertes": 25,
-      "kmRecorridos": 44.1,
+      "zombisEliminados": 224,
+      "muertes": 26,
+      "kmRecorridos": 44.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -100,18 +100,6 @@
       "sellos": []
     },
     {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 22,
-      "experiencia": null,
-      "zombisEliminados": 95,
-      "muertes": 96,
-      "kmRecorridos": 122.1,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
       "id": "princess-ani",
       "nombre": "Princess Ani",
       "nivel": 6,
@@ -119,6 +107,18 @@
       "zombisEliminados": 27,
       "muertes": 26,
       "kmRecorridos": 19.2,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 22,
+      "experiencia": null,
+      "zombisEliminados": 96,
+      "muertes": 97,
+      "kmRecorridos": 122.6,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
