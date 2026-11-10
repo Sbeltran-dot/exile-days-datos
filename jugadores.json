@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-10 18:20",
+  "fechaActualizacion": "2026-11-10 18:25",
   "jugadores": [
     {
       "id": "kiran",
@@ -22,7 +22,7 @@
       "experiencia": null,
       "zombisEliminados": 696,
       "muertes": 47,
-      "kmRecorridos": 101.4,
+      "kmRecorridos": 102.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
