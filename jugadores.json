@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-10 19:55",
+  "fechaActualizacion": "2026-11-10 20:00",
   "jugadores": [
     {
       "id": "kiran",
       "nombre": "Kiran",
-      "nivel": 26,
+      "nivel": 27,
       "experiencia": null,
-      "zombisEliminados": 638,
+      "zombisEliminados": 652,
       "muertes": 14,
-      "kmRecorridos": 83.2,
+      "kmRecorridos": 83.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -18,9 +18,9 @@
     {
       "id": "ookamis",
       "nombre": "Ookamis",
-      "nivel": 26,
+      "nivel": 27,
       "experiencia": null,
-      "zombisEliminados": 717,
+      "zombisEliminados": 763,
       "muertes": 49,
       "kmRecorridos": 112.2,
       "diasSobrevividos": null,
@@ -64,18 +64,6 @@
       "sellos": []
     },
     {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 30,
-      "experiencia": null,
-      "zombisEliminados": 216,
-      "muertes": 110,
-      "kmRecorridos": 167.6,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
       "id": "polag3k",
       "nombre": "Polag3K",
       "nivel": 10,
@@ -83,6 +71,18 @@
       "zombisEliminados": 217,
       "muertes": 48,
       "kmRecorridos": 42.1,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "obi",
+      "nombre": "Obi",
+      "nivel": 30,
+      "experiencia": null,
+      "zombisEliminados": 216,
+      "muertes": 111,
+      "kmRecorridos": 167.7,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
