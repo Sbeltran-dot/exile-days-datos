@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-11 00:20",
+  "fechaActualizacion": "2026-11-11 00:25",
   "jugadores": [
     {
       "id": "kiran",
@@ -11,6 +11,18 @@
       "zombisEliminados": 834,
       "muertes": 14,
       "kmRecorridos": 100.5,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
+      "id": "ookamis",
+      "nombre": "Ookamis",
+      "nivel": 33,
+      "experiencia": null,
+      "zombisEliminados": 950,
+      "muertes": 50,
+      "kmRecorridos": 126.0,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
