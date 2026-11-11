@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-10 21:50",
+  "fechaActualizacion": "2026-11-10 21:55",
   "jugadores": [
     {
       "id": "kiran",
@@ -10,7 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 712,
       "muertes": 14,
-      "kmRecorridos": 94.5,
+      "kmRecorridos": 94.8,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -71,18 +71,6 @@
       "zombisEliminados": 216,
       "muertes": 113,
       "kmRecorridos": 168.9,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "geiselgg",
-      "nombre": "Geiselgg",
-      "nivel": 11,
-      "experiencia": null,
-      "zombisEliminados": 81,
-      "muertes": 28,
-      "kmRecorridos": 49.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
