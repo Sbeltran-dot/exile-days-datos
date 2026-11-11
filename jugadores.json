@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-11 06:15",
+  "fechaActualizacion": "2026-11-11 06:20",
   "jugadores": [
     {
       "id": "kiran",
@@ -32,9 +32,9 @@
       "nombre": "Obi",
       "nivel": 37,
       "experiencia": null,
-      "zombisEliminados": 398,
+      "zombisEliminados": 401,
       "muertes": 119,
-      "kmRecorridos": 198.8,
+      "kmRecorridos": 199.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
