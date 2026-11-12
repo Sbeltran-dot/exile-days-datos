@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-12 01:30",
+  "fechaActualizacion": "2026-11-12 01:35",
   "jugadores": [
     {
       "id": "kiran",
@@ -22,19 +22,7 @@
       "experiencia": null,
       "zombisEliminados": 727,
       "muertes": 46,
-      "kmRecorridos": 129.1,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "obi",
-      "nombre": "Obi",
-      "nivel": 38,
-      "experiencia": null,
-      "zombisEliminados": 667,
-      "muertes": 147,
-      "kmRecorridos": 259.0,
+      "kmRecorridos": 131.1,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -94,7 +82,7 @@
       "experiencia": null,
       "zombisEliminados": 58,
       "muertes": 13,
-      "kmRecorridos": 105.7,
+      "kmRecorridos": 106.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
