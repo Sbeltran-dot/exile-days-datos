@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-12 23:10",
+  "fechaActualizacion": "2026-11-12 23:15",
   "jugadores": [
     {
       "id": "ookamis",
@@ -90,14 +90,16 @@
     {
       "id": "geiselgg",
       "nombre": "Geiselgg",
-      "nivel": 16,
+      "nivel": 17,
       "experiencia": null,
       "zombisEliminados": 110,
       "muertes": 30,
-      "kmRecorridos": 59.6,
+      "kmRecorridos": 59.9,
       "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
+      "clasesTerminadas": 1,
+      "sellos": [
+        "builder"
+      ]
     },
     {
       "id": "laurahero",
