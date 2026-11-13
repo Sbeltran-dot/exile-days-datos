@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-12 15:35",
+  "fechaActualizacion": "2026-11-12 21:25",
   "jugadores": [
     {
       "id": "ookamis",
       "nombre": "Ookamis",
       "nivel": 41,
       "experiencia": null,
-      "zombisEliminados": 1702,
+      "zombisEliminados": 1707,
       "muertes": 81,
-      "kmRecorridos": 227.8,
+      "kmRecorridos": 228.5,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
