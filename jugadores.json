@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-12 22:15",
+  "fechaActualizacion": "2026-11-12 22:20",
   "jugadores": [
     {
       "id": "ookamis",
@@ -10,7 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 1753,
       "muertes": 82,
-      "kmRecorridos": 232.8,
+      "kmRecorridos": 233.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -90,7 +90,7 @@
     {
       "id": "geiselgg",
       "nombre": "Geiselgg",
-      "nivel": 13,
+      "nivel": 14,
       "experiencia": null,
       "zombisEliminados": 99,
       "muertes": 30,
