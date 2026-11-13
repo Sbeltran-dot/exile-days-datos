@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-13 09:45",
+  "fechaActualizacion": "2026-11-13 09:50",
   "jugadores": [
     {
       "id": "ookamis",
@@ -23,18 +23,6 @@
       "zombisEliminados": 910,
       "muertes": 14,
       "kmRecorridos": 110.8,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "jurgen",
-      "nombre": "Jürgen",
-      "nivel": 25,
-      "experiencia": null,
-      "zombisEliminados": 761,
-      "muertes": 50,
-      "kmRecorridos": 139.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
