@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-14 16:25",
+  "fechaActualizacion": "2026-11-14 16:30",
   "jugadores": [
     {
       "id": "ookamis",
@@ -10,7 +10,7 @@
       "experiencia": null,
       "zombisEliminados": 3142,
       "muertes": 99,
-      "kmRecorridos": 328.5,
+      "kmRecorridos": 329.0,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -116,9 +116,9 @@
       "nombre": "Mangleo18",
       "nivel": 1,
       "experiencia": null,
-      "zombisEliminados": 3,
-      "muertes": 1,
-      "kmRecorridos": 1.9,
+      "zombisEliminados": 5,
+      "muertes": 2,
+      "kmRecorridos": 2.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
