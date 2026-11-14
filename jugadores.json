@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-14 16:05",
+  "fechaActualizacion": "2026-11-14 16:10",
   "jugadores": [
     {
       "id": "ookamis",
@@ -112,6 +112,18 @@
       "sellos": []
     },
     {
+      "id": "mangleo18",
+      "nombre": "Mangleo18",
+      "nivel": 1,
+      "experiencia": null,
+      "zombisEliminados": 2,
+      "muertes": 0,
+      "kmRecorridos": 0.4,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
       "id": "mancoazteca",
       "nombre": "Mancoazteca",
       "nivel": 1,
@@ -119,18 +131,6 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "mangleo18",
-      "nombre": "Mangleo18",
-      "nivel": 1,
-      "experiencia": null,
-      "zombisEliminados": 0,
-      "muertes": 0,
-      "kmRecorridos": 0.0,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
