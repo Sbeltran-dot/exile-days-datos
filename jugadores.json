@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-15 06:50",
+  "fechaActualizacion": "2026-11-15 06:55",
   "jugadores": [
     {
       "id": "kiran",
@@ -109,18 +109,6 @@
       "zombisEliminados": 27,
       "muertes": 26,
       "kmRecorridos": 19.2,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "mangleo18",
-      "nombre": "Mangleo18",
-      "nivel": 1,
-      "experiencia": null,
-      "zombisEliminados": 5,
-      "muertes": 2,
-      "kmRecorridos": 2.4,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
