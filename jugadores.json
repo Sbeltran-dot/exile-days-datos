@@ -1,16 +1,16 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-17 01:40",
+  "fechaActualizacion": "2026-11-17 01:45",
   "jugadores": [
     {
       "id": "ookamis",
       "nombre": "Ookamis",
       "nivel": 62,
       "experiencia": null,
-      "zombisEliminados": 4399,
-      "muertes": 112,
-      "kmRecorridos": 423.2,
+      "zombisEliminados": 4423,
+      "muertes": 113,
+      "kmRecorridos": 423.6,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -44,9 +44,9 @@
       "nombre": "Obi",
       "nivel": 42,
       "experiencia": null,
-      "zombisEliminados": 946,
+      "zombisEliminados": 951,
       "muertes": 178,
-      "kmRecorridos": 328.0,
+      "kmRecorridos": 328.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -106,9 +106,9 @@
       "nombre": "LauraHero",
       "nivel": 32,
       "experiencia": null,
-      "zombisEliminados": 95,
-      "muertes": 20,
-      "kmRecorridos": 158.1,
+      "zombisEliminados": 96,
+      "muertes": 21,
+      "kmRecorridos": 158.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
