@@ -1,7 +1,7 @@
 {
   "esquemaVersion": 1,
   "datosDeEjemplo": false,
-  "fechaActualizacion": "2026-11-18 05:10",
+  "fechaActualizacion": "2026-11-18 05:15",
   "jugadores": [
     {
       "id": "ookamis",
@@ -44,9 +44,9 @@
       "nombre": "Obi",
       "nivel": 47,
       "experiencia": null,
-      "zombisEliminados": 1264,
-      "muertes": 207,
-      "kmRecorridos": 363.9,
+      "zombisEliminados": 1277,
+      "muertes": 209,
+      "kmRecorridos": 364.3,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
@@ -102,6 +102,18 @@
       ]
     },
     {
+      "id": "laurahero",
+      "nombre": "LauraHero",
+      "nivel": 34,
+      "experiencia": null,
+      "zombisEliminados": 105,
+      "muertes": 26,
+      "kmRecorridos": 175.7,
+      "diasSobrevividos": null,
+      "clasesTerminadas": 0,
+      "sellos": []
+    },
+    {
       "id": "princess-ani",
       "nombre": "Princess Ani",
       "nivel": 6,
@@ -121,18 +133,6 @@
       "zombisEliminados": 1,
       "muertes": 0,
       "kmRecorridos": 3.4,
-      "diasSobrevividos": null,
-      "clasesTerminadas": 0,
-      "sellos": []
-    },
-    {
-      "id": "laurahero",
-      "nombre": "LauraHero",
-      "nivel": 34,
-      "experiencia": null,
-      "zombisEliminados": 102,
-      "muertes": 25,
-      "kmRecorridos": 175.2,
       "diasSobrevividos": null,
       "clasesTerminadas": 0,
       "sellos": []
